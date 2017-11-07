@@ -33,9 +33,9 @@ public abstract class AbstractCrud<T> {
         getEntityManager().getTransaction().commit();
     }
 
-    public void remove(T entity) {
+    public void remove(Object id) {
         getEntityManager().getTransaction().begin();
-        getEntityManager().remove(getEntityManager().merge(entity));
+        getEntityManager().remove(find(id));
         getEntityManager().getTransaction().commit();
     }
 
