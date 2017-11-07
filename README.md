@@ -1,8 +1,8 @@
 # Produto Inova Contributing Guide
 
-Hi! I’m really excited that you are interested in contributing to Vue.js. Before submitting your contribution though, please make sure to take a moment and read through the following guidelines.
+Hi! I’m really excited that you are interested in contributing to Inova. Before submitting your contribution though, please make sure to take a moment and read through the following guidelines.
 
-- [Code of Conduct](https://github.com/rafaelnsantos/ProdutoInova/CONTRIBUTING/CODE_OF_CONDUCT.md)
+- [Code of Conduct](https://github.com/rafaelnsantos/ProdutoInova/blob/master/CONTRIBUTING/CODE_OF_CONDUCT.md)
 - [Code Style](https://google.github.io/styleguide/javaguide.html)
 - [Issue Reporting Guidelines](#issue-reporting-guidelines)
 - [Pull Request Guidelines](#pull-request-guidelines)
