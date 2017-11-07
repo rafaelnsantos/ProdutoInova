@@ -1,0 +1,12 @@
+CREATE DATABASE aula;
+
+CREATE TABLE cidade
+(
+ 
+codigo integer NOT NULL,
+  
+nome character varying(89),
+  
+CONSTRAINT pk_cid PRIMARY KEY (codigo)
+)
+
